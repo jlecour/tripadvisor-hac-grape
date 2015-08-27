@@ -1,0 +1,7 @@
+# Install
+
+    $ bundle
+
+# Run
+
+    $ rackup
